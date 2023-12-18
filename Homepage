@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adventure Travel Homepage</title>
+</head>
+
+<body>
+<div class="flex-container">
+  <div class="content">
+    <div class="content-text">
+      <h2>Embark on the Adventure of a <span class="emphasis">Lifetime</span></h2>
+      <p>
+        Experience the thrill of adventure travel like never before. Discover unforgettable journeys to the most breathtaking destinations around the world.
+      </p>
+      <br>
+      <a href="#" class="button">Book Now</a>
+    </div>
+   
+  </div>
+  <div class="image"></div>
+  
+</div>
+</body>
+
+</html>
